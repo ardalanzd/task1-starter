@@ -5,6 +5,6 @@ public class Main {
     }
 
     public static void greet(String name) {
-        System.out.println("Hello my friend, " + name + "!");
+        System.out.println("Hi my friend, " + name + "!");
     }
 }
